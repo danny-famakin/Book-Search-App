@@ -2,6 +2,8 @@
 
 Android app that leverages the [OpenLibrary API](https://openlibrary.org/developers/api) to search books and display cover images. This app is to be used as the base app for adding suggested extensions.
 
+Team Members: Greg Pailet, Eyob Tefera, Daniel Famakin 
+
 ![Imgur](http://i.imgur.com/NJmF42Yl.png)
 
 ## Overview
